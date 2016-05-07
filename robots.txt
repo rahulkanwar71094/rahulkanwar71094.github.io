@@ -1,2 +1,2 @@
-Sitemap: http://www.hackernewsletter.com/sitemap.xml
+Sitemap: http://www.indiaarchive.in/sitemap.xml
 User-agent: *
